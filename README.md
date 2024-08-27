@@ -45,6 +45,8 @@ Supply Chain Managers: For strategic planning and resource management.
 Business Analysts: For analyzing trends and preparing for future demand fluctuations.
 Operations Managers: For real-time decision-making based on demand forecasts.
 
+#Result
+
 
 ![final](https://github.com/user-attachments/assets/8fdd91fb-000b-4992-b070-8563f6c5bc65)
 
